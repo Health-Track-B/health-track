@@ -81,6 +81,10 @@
     margin: 0;
 }
 
+button.botao-salvar:hover {
+    background-color: #e56b00;
+}
+
 .container-botao-salvar a {
     text-decoration: none;
     display: flex;

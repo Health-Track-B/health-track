@@ -15,6 +15,10 @@
     border: 1px solid #D9E4E8;
     border-radius: 50px;
 }
+
+.botao-excluir:hover {
+    background-color: #ff4747;
+}
 /* BOTÃO EXCLUIR REGISTRO */
 
 
@@ -75,6 +79,10 @@
     color: white;
     background-color: #FF7700;
     margin: 0;
+}
+
+.botao-salvar:hover {
+    background-color: #e56b00;
 }
 
 .container-botao-salvar a {
